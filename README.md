@@ -1,8 +1,9 @@
 # Full Stack Chatting-Application
-Features
-This application provides users with the following features
+<h3>Features</h3>
+<ul>This application provides users with the following features
 
-Authentication using JWT Tokens
-A Global Chat which can be used by anyone using the application to broadcast messages to everyone else.
-A Private Chat functionality where users can chat with other users privately.
-Real-time updates to the user list, conversation list, and conversation messages
+<li>Authentication using JWT Tokens.</li>
+<li>A Global Chat which can be used by anyone using the application to broadcast messages to everyone else.</li>
+<li>A Private Chat functionality where users can chat with other users privately.</li>
+<li>Real-time updates to the user list, conversation list, and conversation messages. </li>
+</ul>
